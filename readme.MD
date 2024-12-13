@@ -32,7 +32,7 @@ Example of returned data
 > privateKey: The private key is the secret password that gives you access to your cryptocurrency funds. Imagine it as the key to a digital safe that stores your virtual money.
 
 
-### Sending Bitcoins to a Wallet
+### Sending Faucets Bitcoins to a Wallet
 
 To test transactions, use a Bitcoin faucet to send small amounts of cryptocurrency to your generated wallet on the Bitcoin testnet. This allows you to experiment without using real Bitcoin. Access the faucet at the link below:
  [bitcoinfaucet](https://bitcoinfaucet.uo1.net/)
